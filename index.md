@@ -26,4 +26,4 @@ my name is amina.
 
 ## giraffes
 
-![giraffes](http://www.animalstodayradio.com/wp-content/uploads/2015/02/Rothschilds-giraffe-Murchison-Falls-NP-c-Julian-Fennessy-GCF_small.jpg)
+![giraffes](https://pixnio.com/free-images/2018/06/14/2018-06-14-22-38-57.jpg)
