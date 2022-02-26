@@ -27,3 +27,6 @@ my name is amina.
 ## giraffes
 
 ![giraffes](https://pixnio.com/free-images/2018/06/14/2018-06-14-22-38-57.jpg)
+
+## random photo
+![random]()
