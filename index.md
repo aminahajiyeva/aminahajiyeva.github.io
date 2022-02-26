@@ -23,3 +23,7 @@ my name is amina.
 - [github](https://github.com)
 
 <!-- this is a comment -->
+
+## giraffes
+
+![giraffes](http://www.animalstodayradio.com/wp-content/uploads/2015/02/Rothschilds-giraffe-Murchison-Falls-NP-c-Julian-Fennessy-GCF_small.jpg)
