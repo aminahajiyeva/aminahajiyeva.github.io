@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-*welcome !*
+*Welcome !*
 
 *Hi, I’m Amina Hajiyeva, a second-year electrical engineering student at Carleton University with a passion for innovation and problem-solving. I have experience in circuit design, embedded systems, and programming in C. I’m also passionate about entrepreneurship and exploring how technology can solve real-world challenges.*(about)
 
